@@ -5,9 +5,9 @@ int main()
 {
     int num1,num2,sum,mul,sub,div;
 
-    printf("\ Enter the value of ",num1);
+    printf("\t Enter the value of ",num1);
     scanf("\t%d",&num1);
-    printf("\ Enter the value of ",num2);
+    printf("\t Enter the value of ",num2);
     scanf("\t%d",&num2);
 
     sum = num1 + num2;
@@ -22,3 +22,13 @@ int main()
 
     getch();
 }
+    /* OUTPUT */
+    /* 
+       Enter the value of 10
+       Enter the value of 4 
+       
+       Sum of Two Numbers is = 15
+       Subtract of Two Numbers is = 5
+       Multiply of Two Numbers is = 50
+       Division of Two Numbers is = 2
+    */
