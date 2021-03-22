@@ -24,11 +24,11 @@ int main()
 }
     /* OUTPUT */
     /* 
-       Enter the value of 10
-       Enter the value of 4 
+       Enter the value of 45
+       Enter the value of 5
        
-       Sum of Two Numbers is = 15
-       Subtract of Two Numbers is = 5
-       Multiply of Two Numbers is = 50
-       Division of Two Numbers is = 2
+       Sum of Two Numbers is = 50
+       Subtract of Two Numbers is = 40
+       Multiply of Two Numbers is = 225
+       Division of Two Numbers is = 9
     */
